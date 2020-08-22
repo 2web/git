@@ -612,7 +612,6 @@ input[type="range"].form-control {
 }
 @media (min-width: 640px) {
   .menu-close {
-    1left: 23px;
   }
 }
 .menu-popup {
@@ -1856,7 +1855,6 @@ p {
 }
 .header {
   background-color: #FFF;
-  1box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.06);
   position: relative;
   z-index: 9998;
 }
@@ -4750,7 +4748,7 @@ ul.list-planks li {
   text-overflow: ellipsis;
 }
 .error {
-  1display: none !important;
+  
 }
 .block-margins {
   margin: 38px 0 40px;
